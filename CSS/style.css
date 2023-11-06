@@ -45,9 +45,8 @@ margin-top: 50px;
 
 .navbar .listNav
 {
-    display: flex;
-    justify-content: end;
-
+display: flex;
+justify-content:flex-end;
 }
 
 .listNav ul li 
@@ -60,9 +59,6 @@ margin-top: 50px;
     text-transform: uppercase;
 
 }
-
-
-
 
 .PORTFOLIO h2 {
     color: black;
@@ -77,6 +73,8 @@ margin-top: 50px;
     text-align: center;
 }
 
+
+
 .portfolio-item {
     margin-top: 20px;
     display: flex;
@@ -84,7 +82,7 @@ margin-top: 50px;
 }
 
 .Item {
-    margin-left: 50px;
+    margin-left: 10px;
 }
 
 .portfolio-item img {
